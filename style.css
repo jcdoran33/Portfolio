@@ -195,6 +195,14 @@ nav a:hover {
     min-width: 140px;
 }
 
+#example6 {
+    background-image: url(./adv_adv_screenshot.png);
+    background-position: center;
+    background-size: cover;
+    max-width: 50%;
+    min-width: 140px;
+}
+
 #contact {
     min-width: 150px;
     display: flex;
